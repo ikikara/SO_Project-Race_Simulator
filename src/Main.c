@@ -4,8 +4,6 @@
 #include "Header.h"
 
 int main() { 
-
-	
 	comecus();
 	
 	simulator();

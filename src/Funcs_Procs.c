@@ -170,7 +170,9 @@ void race_manager(){
 }
 
 void team_manager(){
-	while(shared_var->condition==0);
+	while(shared_var->condition==0){
+		sleep(1);
+	}
 	
 	int * positions = malloc(sizeof(int)*shared_var->teams[posT_P].ncars);
 	search_Pos(positions, posT_P);
@@ -192,7 +194,9 @@ void malfunction_manager(){
 	message M;
 	int prob;
 	
-	while(shared_var->condition==0);
+	while(shared_var->condition==0){
+		sleep(1);
+	}
 	
 	while(1){
 		srand(time(NULL));

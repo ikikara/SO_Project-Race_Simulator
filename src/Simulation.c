@@ -344,7 +344,9 @@ void sigusr1handler(int sig){
 
 	shared_var->finish=1;
 
-	while(finish_himmmmm()!=1);
+	while(finish_himmmmm()!=1){
+		sleep(1);
+	}
 	
 	kill(shared_var->id_simulator, SIGTSTP);
 
@@ -359,7 +361,9 @@ void ctrlcHandler(int sig){
 
 	shared_var->finish=1;
 
-	while(finish_himmmmm()!=1);
+	while(finish_himmmmm()!=1){
+		sleep(1);
+	}
 
 	if(shared_var->ctrlc==1){
 		raise(SIGTSTP);
