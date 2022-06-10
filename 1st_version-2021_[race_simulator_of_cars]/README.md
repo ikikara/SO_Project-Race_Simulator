@@ -9,9 +9,6 @@
 ## Description
 A program that simulates races between formula 1 cars.
 
-#### Main Languages:
-![](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=5459E2) 
-
 ## To run this project:
 You have one way to run this project:
 1. Using Terminal:
