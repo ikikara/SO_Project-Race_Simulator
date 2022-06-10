@@ -7,7 +7,7 @@
 - [To run this project](#to-run-this-project)
 
 ## Description
-A program that will simulate an offloading system.
+A program that simulates an offloading system.
 
 ## To run this project:
 You have one way to run this project:
