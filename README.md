@@ -19,9 +19,13 @@ Consists in develop programs that will simulate different "activities" using UNI
 1. C ([documentation](https://devdocs.io/c/))
 
 ## Notes important to read:
-   - In this repository I have a version of this work from 2021 and from 2022. The way to run this 2 versions it's different so check the respective folders to know how to run.
+   - In this repository I have a version of this work from 2021 and from 2022. The way to run these 2 versions it's different so check the respective folders to know how to run.
+   - This project MUST BE run in Linux (as I said above we will use UNIX specification)
+   - The files that are on folder "resources" must be on the same folder of *.c files 
+   - For more information about how to use these projects consult the respective Statements (to learn more about commands, signals available and structure of "Config.txt")
 
 ## Authors:
 - [João Silva](https://github.com/ikikara)
-- [Pedro Martins](https://github.com/PedroMartinsUC)
+- [Mário Lemos](https://github.com/MrMarito) [2021 Version]
+- [Pedro Martins](https://github.com/PedroMartinsUC) [2022 Version]
 
