@@ -25,7 +25,7 @@ Consists in develop programs that will simulate different "activities" using UNI
    - For more information about how to use these projects consult the respective Statements (to learn more about commands, signals available and structure of "Config.txt")
 
 ## Authors:
-- [João Silva](https://github.com/ikikara)
+- [João Silva](https://github.com/joaosilva21)
 - [Mário Lemos](https://github.com/MrMarito) [2021 Version]
 - [Pedro Martins](https://github.com/PedroMartinsUC) [2022 Version]
 
